@@ -9,14 +9,14 @@
 | Product Due Dilligence    | Prototyping                    | Produktionsplanung             |
 | Stakeholder Ideation      | User Interviews / Tests        | Backlog und Ticket Management  |
 
-### Planen
+### Bauen
 | Projekte steuern           | Programmierung                | Testen und veröffentlichen    |
 | :------------------------- | :---------------------------- | :---------------------------- |
 | Produktionssteuerung       | Design und Frontendentwicklung| End to End Testing            |
 | Stakeholder Communications | Backendentwicklung und APIS   | Performance/Last-Testing      |
 | Reportings                 | Datenbank und Infrastruktur   | Release Management            |
 
-### Planen
+### Betreiben
 | Optimieren                | Skalieren                      | Reagieren                      |
 | :------------------------ | :----------------------------- | :----------------------------- |
 | Product Monitoring        | Feature Optimierung            | Incident Management            |
